@@ -1,0 +1,29 @@
+{
+  "name": "lab_activity2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "jest --coverage"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/V2810/Lab_Activity2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/V2810/Lab_Activity2/issues"
+  },
+  "homepage": "https://github.com/V2810/Lab_Activity2#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "eslint": "^10.11.0",
+    "jest": "^30.5.2"
+  }
+}
